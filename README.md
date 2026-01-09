@@ -1,7 +1,30 @@
-# Estafa actual con Bizum
-En las últimas semanas se ha detectado un aumento de estafas relacionadas con **Bizum**, especialmente en plataformas de compraventa online. Uno de los métodos más comunes es el llamado **Bizum inverso**, donde los estafadores engañan a la víctima para que acepte una solicitud de dinero creyendo que está recibiendo un pago. Al confirmar la operación, el dinero sale directamente de la cuenta de la víctima y la transferencia no se puede cancelar, ya que Bizum es un sistema de pagos inmediatos.
+# ⚠️ Estafa en Bizum!
 
-Las autoridades recomiendan revisar cuidadosamente cada operación antes de aceptarla, no confiar en ofertas demasiado atractivas y desconfiar de personas que presionan para realizar pagos rápidos. También es importante recordar que **Bizum no puede revertir pagos enviados por error**, por lo que la prevención es clave.
+## ¿Qué es Bizum?
+
+**Bizum** es un servicio de pago móvil que permite enviar y recibir dinero al instante usando solo el número de teléfono, sin necesidad de conocer el IBAN.
+
+- Funciona a través de la app del banco  
+- Es inmediato y seguro  
+- Muy usado en España  
+
+## ¿Qué peligros y estafas hay?
+
+Usar **Bizum** es seguro en sí mismo, pero como cualquier herramienta de pago rápida, existen peligros y estafas comunes que conviene conocer para no perder dinero ni datos personales.
+
+### 1. Bizum inverso (pago falso)
+Te hacen creer que te van a pagar, pero en realidad te envían una **solicitud de dinero**.  
+Si la aceptas, tú envías dinero al estafador.  
+Es muy común en ventas online en plataformas como Wallapop.
+
+### 2. Productos o servicios inexistentes
+Ofertas muy baratas que parecen “gangas”.  
+Te piden Bizum por adelantado y luego no aparece el producto ni responden.
+
+### 3. Premios falsos y enlaces peligrosos
+Correos o SMS que dicen que “has ganado” algo y te llevan a un enlace donde te piden datos o dinero.  
+Suelen ser **phishing** para robar credenciales o información.
+
 
 ## Noticias relacionadas
 - [Alerta de la Policía por el aumento de estafas con Bizum inverso](https://www.elaltojalon.es/texto-diario/mostrar/5726290/policia-alerta-repunte-estafas-compraventa-online-advierte-sobre-bizum-inverso)
