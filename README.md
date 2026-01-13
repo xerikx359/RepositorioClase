@@ -1,4 +1,4 @@
-# ⚠️ Estafa en Bizum!
+# Estafa en Bizum!
 
 ## ¿Qué es Bizum?
 
